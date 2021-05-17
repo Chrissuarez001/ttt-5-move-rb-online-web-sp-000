@@ -7,4 +7,3 @@ def display_board(board)
 end
 
 def update_array_at_with(array, index, value)
-
